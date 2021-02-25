@@ -1,0 +1,7 @@
+C:\Users\demon\source\repos\StringMinimization\StringMinimization\bin\Debug\StringMinimization.exe.config
+C:\Users\demon\source\repos\StringMinimization\StringMinimization\bin\Debug\StringMinimization.exe
+C:\Users\demon\source\repos\StringMinimization\StringMinimization\bin\Debug\StringMinimization.pdb
+C:\Users\demon\source\repos\StringMinimization\StringMinimization\obj\Debug\StringMinimization.csprojAssemblyReference.cache
+C:\Users\demon\source\repos\StringMinimization\StringMinimization\obj\Debug\StringMinimization.csproj.CoreCompileInputs.cache
+C:\Users\demon\source\repos\StringMinimization\StringMinimization\obj\Debug\StringMinimization.exe
+C:\Users\demon\source\repos\StringMinimization\StringMinimization\obj\Debug\StringMinimization.pdb

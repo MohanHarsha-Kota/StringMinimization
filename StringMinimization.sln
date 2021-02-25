@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMinimization", "StringMinimization\StringMinimization.csproj", "{FD28EA23-D416-4EF7-A4DC-301082411680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD28EA23-D416-4EF7-A4DC-301082411680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD28EA23-D416-4EF7-A4DC-301082411680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD28EA23-D416-4EF7-A4DC-301082411680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD28EA23-D416-4EF7-A4DC-301082411680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {590B30AA-4574-47B0-9112-414F8BD3D02B}
+	EndGlobalSection
+EndGlobal
